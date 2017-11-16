@@ -2,6 +2,14 @@
 Changelog for package rqt_topic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.10 (2017-11-16)
+-------------------
+* fix order by bandwidth column (`#4 <https://github.com/ros-visualization/rqt_topic/issues/4>`_)
+
+0.4.9 (2017-11-06)
+------------------
+* fix section resize toggle with Qt5 (`#2 <https://github.com/ros-visualization/rqt_topic/issues/2>`_)
+
 0.4.8 (2017-04-24)
 ------------------
 
