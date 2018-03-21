@@ -1,0 +1,12 @@
+Source: ros-melodic-rqt-topic
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://wiki.ros.org/rqt_topic
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rqt-topic
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-melodic-python-qt-binding (>= 0.2.19), ros-melodic-rostopic, ros-melodic-rqt-gui, ros-melodic-rqt-gui-py, ros-melodic-std-msgs
+Description: rqt_topic provides a GUI plugin for displaying debug information about ROS topics including publishers, subscribers, publishing rate, and ROS Messages.
