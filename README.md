@@ -1,3 +1,26 @@
+## rqt_topic (melodic) - 0.4.11-1
+
+The packages in the `rqt_topic` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_topic` on `Thu, 09 Jan 2020 18:49:04 -0000`
+
+The `rqt_topic` package was released.
+
+Version of package(s) in repository `rqt_topic`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_topic.git
+- release repository: https://github.com/ros-gbp/rqt_topic-release.git
+- rosdistro version: `0.4.10-0`
+- old version: `0.4.10-0`
+- new version: `0.4.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_topic (melodic) - 0.4.10-0
 
 The packages in the `rqt_topic` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_topic` on `Wed, 21 Mar 2018 17:16:32 -0000`
