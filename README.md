@@ -1,3 +1,26 @@
+## rqt_topic (noetic) - 0.4.12-1
+
+The packages in the `rqt_topic` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_topic` on `Wed, 11 Mar 2020 22:58:44 -0000`
+
+The `rqt_topic` package was released.
+
+Version of package(s) in repository `rqt_topic`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_topic.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_topic (kinetic) - 0.4.11-1
 
 The packages in the `rqt_topic` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_topic` on `Thu, 09 Jan 2020 18:57:51 -0000`
