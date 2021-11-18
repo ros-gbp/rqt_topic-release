@@ -2,6 +2,13 @@
 Changelog for package rqt_topic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.13 (2021-11-18)
+-------------------
+* fix python3 install (`#36 <https://github.com/ros-visualization/rqt_topic/issues/36>`_)
+* Update Open Robotics Maintainer (`#27 <https://github.com/ros-visualization/rqt_topic/issues/27>`_)
+* fix shebang line for python3 (`#18 <https://github.com/ros-visualization/rqt_topic/issues/18>`_)
+* Contributors: Mabel Zhang, Mikael Arguedas, Scott K Logan
+
 0.4.12 (2020-03-11)
 -------------------
 * bump CMake minimum version to avoid CMP0048 warning
